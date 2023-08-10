@@ -2,7 +2,7 @@
 
 This repository contains the source code for an Airline Reservation System that utilizes Big Data analytics technologies, such as Apache Kafka, Spark, and Java, to manage flight reservations, provide real-time insights, and offer personalized recommendations.
 
-**Introducation**
+**Introduction**
 
 The Airline Reservation System is designed to streamline the flight reservation process while harnessing the power of Big Data analytics for enhanced user experience and data-driven insights. The system is built using Java and integrates Apache Kafka and Spark for real-time data processing, storage, and recommendations.
 
